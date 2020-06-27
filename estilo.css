@@ -1,0 +1,60 @@
+* {
+    padding-left: 0;
+}
+
+
+/* etiqueta */
+
+body {
+    background-color: black;
+    color: rgb(115, 221, 8);
+}
+
+p {
+    font-size: 26px;
+}
+
+ul li {
+    font-size: 20px;
+}
+
+
+/* clases */
+
+.lila {
+    background-color: rgb(104, 22, 104);
+    color: aliceblue;
+}
+
+.gris {
+    background-color: rgba(46, 54, 54, 0.315);
+    min-height: 100px;
+    text-align: center;
+}
+
+.amarillo {
+    background-color: rgb(253, 253, 253);
+    border: rgb(53, 17, 17) solid 1px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10%;
+    text-shadow: #474747 3px 5px 2px, -6px -1px 8px rgba(23, 28, 206, 0.4);
+    color: #FFFFFF;
+    background: #c5c201;
+}
+
+.amarillo img {
+    width: 100%;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.mas {
+    font-weight: lighter;
+    font-size: 3rem;
+    color: chartreuse;
+}
+
+.icoRed {
+    font-size: 50px;
+}
